@@ -25,21 +25,19 @@ AI Short Video Generator is a web application that allows users to create short 
 
 ## Installation
 
-**Clone the repository:**
+**Clone the repository:**  
 git clone https://github.com/Mary-ams/ai-short-video-generator.git  
-
 cd ai-short-video-generator
 
-**Install dependencies:**
+**Install dependencies:**  
 npm install
 
-**Set up environment variables:**
+**Set up environment variables:**  
 Create a .env.local file in the root directory and add the necessary environment variables.
 
-**Run the application:**
+**Run the application:**  
 npm run dev
 
-**The backend (drizzle studio):**
+**The backend (drizzle studio):**  
 To make changes: npm run db:push  
-
 To run: npm run db:studio
